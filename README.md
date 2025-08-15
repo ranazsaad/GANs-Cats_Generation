@@ -1,7 +1,6 @@
 # Cats Generation
 
 This project implements a **Generative Adversarial Network (GAN)** to generate realistic **cat face images** from random noise.  
-It uses a **Generator** and **Discriminator** in an adversarial setup, trained on a dataset of cat faces.
 
 ---
 
