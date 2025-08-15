@@ -1,1 +1,1 @@
-# GANs-Cats_Generation
+# GANs (Cats Generation)
